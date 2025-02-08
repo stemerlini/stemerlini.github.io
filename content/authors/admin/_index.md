@@ -53,37 +53,25 @@ interests:
   - Business Development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Plasma Physics
+    institution: Imperial College London
+    date_start: 2019-10-01
+    date_end: 2024-01-13
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on shocks and transition to turbulence in high energy density plasma experiments. Supervised by [Prof Sergey Lebedev](https://profiles.imperial.ac.uk/s.lebedev).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MSc Thermal Power - Aerospace Propulsion
+    institution: Cranfield University
+    date_start: 2017-10-01
+    date_end: 2018-09-01
+    summary:
+  - area: MSc Aerospace/Astronautic Engineering
+    institution: Universita' degli Studi di Padova
+    date_start: 2016-10-01
+    date_end: 2019-12-10
+    summary:
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
