@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Stefano Merlini
+title: Stefano Merlini, PhD
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -24,8 +24,8 @@ role: Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Space Exploration
-  - Fusion Energy
+  - Fusion & Nuclear Energy
   - Astrophysics
   - Business Development
 
@@ -58,10 +58,10 @@ education:
     date_start: 2019-10-01
     date_end: 2024-01-13
     summary: |
-      Thesis on shocks and transition to turbulence in high energy density plasma experiments. Supervised by [Prof Sergey Lebedev](https://profiles.imperial.ac.uk/s.lebedev).
+      Thesis on structure of accretion shocks and radiative cooling effects in high energy density plasma experiments. Supervised by [Prof Sergey Lebedev](https://profiles.imperial.ac.uk/s.lebedev).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://spiral.imperial.ac.uk/entities/publication/60c3dca6-41cb-4c60-a9a5-319e5215890c'
   - area: MSc Thermal Power - Aerospace Propulsion
     institution: Cranfield University
     date_start: 2017-10-01
@@ -72,63 +72,54 @@ education:
     date_start: 2016-10-01
     date_end: 2019-12-10
     summary:
+  - area: BSc Biomedical Engineering
+    institution: Universita' degli Studi di Pavia
+    date_start: 2016-04-26
+    date_end: 2012-10-01
+    summary:
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Associate
+    company_name: Imperial College London
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsible for undertaking experimental studies of pulsed power-driven, high-energy density science experiments, specifically on laser-plasma interactions with highly non-homogenous media. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Lab Environment
+#         description: ''
+#         percent: 100
+#         icon: code-bracket
+#       - name: Python
+#         description: ''
+#         percent: 70
+#         icon: code-bracket
+#       - name: 
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 languages:
   - name: English
