@@ -1,1 +1,1 @@
-# [ My personal website]
+# Just my personal website - stemerlini.github
